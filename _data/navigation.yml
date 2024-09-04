@@ -6,7 +6,7 @@
 
 main:
    - title: "About Me"
-    url: /https://abdul-baaki.github.io/
+    url: /about/about.html/
     
   - title: "Research Interest"
     url: /markdown/ 
