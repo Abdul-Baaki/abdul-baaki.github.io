@@ -13,6 +13,7 @@ My research focuses on broad areas of wireless communication, resource sharing a
 
 Research Interest
 ======
+------
 **Primary focus**
 * 6G and beyond wireless communications.
 * Wireless security.
