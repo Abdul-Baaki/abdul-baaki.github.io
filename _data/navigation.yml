@@ -6,7 +6,7 @@
 
 main:
    - title: "About Me"
-    url: /about/about.html/
+    url: /markdown/
     
   - title: "Research Interest"
     url: /markdown/ 
