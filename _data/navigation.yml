@@ -6,10 +6,10 @@
 
 main:
    - title: "About Me"
-    url: /markdown/
+    url: /portfolio/
     
   - title: "Research Interest"
-    url: /markdown/ 
+    url: /teaching/ 
     
   - title: "Publications"
     url: /publications/
