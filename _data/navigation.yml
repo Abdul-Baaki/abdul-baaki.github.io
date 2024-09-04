@@ -8,14 +8,14 @@ main:
    - title: "About Me"
     url: /about/
     
-  - title: "Research Interest"
-    url: /research/ 
+  # - title: "Research Interest"
+  #   url: /research/ 
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+  # - title: "Projects"
+  #   url: /projects/    
     
   - title: "contact"
     url: /portfolio/
