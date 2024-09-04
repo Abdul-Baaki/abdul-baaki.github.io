@@ -6,7 +6,7 @@
 
 main:
    - title: "About Me"
-    url: /#about/
+    url: /pportfolio/
     
   # - title: "Research Interest"
   #   url: /teaching/ 
@@ -17,8 +17,8 @@ main:
   # - title: "Projects"
   #   url: /markdown/    
     
-  # - title: "contact"
-  #   url: /portfolio/
+  - title: "contact"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
