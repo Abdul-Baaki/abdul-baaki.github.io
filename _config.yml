@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Abdul-Baaki Yakubu"
-  avatar           : "abdulbaaki.png"
+  avatar           : "abdul-baaki.JPG"
   bio              : "MSc in Electronics and Communication Engineering"
   location         : "Alexandria, Egypt"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "abaakiyakubu@gmail.com"
-  googlescholar    : "https://scholar.google.com/citations?user=l-MxJhEAAAAJ&hl=en&oi=ao"
-  researchgate     :  "https://www.researchgate.net/profile/Boniface-Uwizeyimana"
+  googlescholar    : 
+  researchgate     :  "https://www.researchgate.net/profile/Abdul-Baaki-Yakubu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "uwizeyimana-boniface-78478413a"
-  orcid            : "https://orcid.org/0009-0009-3165-7519"
+  linkedin         : "https://www.linkedin.com/in/abdul-baaki-yakubu/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8684-7373"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
