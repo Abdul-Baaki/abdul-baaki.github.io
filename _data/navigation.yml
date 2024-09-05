@@ -14,11 +14,11 @@ main:
   - title: "Research Interest"
     url: /teaching/    
     
+  - title: "Projects"
+    url: /project/
+        
   - title: "Contact"
     url: /contact/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /files/Abdul-Baaki-Yakubu-CV.pdf
