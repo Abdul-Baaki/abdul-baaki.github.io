@@ -29,6 +29,8 @@ Publications
 ======
 1. Task Offloading and Resource Allocation in an RIS-assisted NOMA-based Vehicular Edge Computing. **Accepted for publication, IEEE ACCESS**
 
+**[My Projects](/images/project_image.webp)**
+
 Note
 ------
 **Webpage still under development**
