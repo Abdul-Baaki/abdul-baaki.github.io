@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Task Offloading and Resource Allocation in an RIS-assisted NOMA-based Vehicular Edge Computing"
 collection: publications
-category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Abstract:
+With the rise of intelligent transportation (ITS), autonomous cars, and on-the-road entertainment and computation, vehicular edge computing(VEC) has become a primary research topic in 6G and beyond communications. On the other hand, reconfigurable intelligent surfaces (RIS) are a major enabling technology that can help in the task offloading domain. This study introduces a novel VEC architecture that incorporates non-orthogonal multiple access (NOMA) and reconfigurable intelligent surfaces (RIS), where vehicles perform binary or partial computation offloading to edge nodes (eNs) for task execution. We construct a vehicle-to-infrastructure (V2I) transmission model by considering vehicular interference and formulating a joint task offloading and resource allocation (JTORA) problem with the goal of reducing total service latency and energy usage. Next, we decompose this problem into task offloading (TO) problem on the vehicle side and resource allocation (RA) problem on the eN side. Specifically, we describe offloading decisions and offloading ratios as a decentralized partially observable Markov decision process (Dec-POMDP). Subsequently, a multi-agent distributed distributional deep deterministic policy gradient (MAD4PG) is proposed to solve the TO problem, where every vehicular agent learns the global optimal policy and obtains individual decisions. Furthermore, a whale optimization algorithm (WOA) is used to optimize the phase shift coefficient of the RIS. Upon receiving offloading ratios and offloading decisions from vehicles, edge nodes utilize the Lagrange multiplier method (LMM) and Karush-KuhnTucker (KKT) conditions to address the RA problem. Finally, we design a simulation model based on real-world vehicular movements. The numerical results demonstrate that, compared to previous algorithms, our proposed approach reduces the overall delay and energy consumption more effectively.'
+date: 2024-09-05
+venue: 'IEEE Access 2024'
+paperurl: 'https://doi.org/10.1109/ACCESS.2024.3454810'
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: 
+With the rise of intelligent transportation (ITS), autonomous cars, and on-the-road entertainment and computation, vehicular edge computing(VEC) has become a primary research topic in 6G and beyond communications. On the other hand, reconfigurable intelligent surfaces (RIS) are a major enabling technology that can help in the task offloading domain. This study introduces a novel VEC architecture that incorporates non-orthogonal multiple access (NOMA) and reconfigurable intelligent surfaces (RIS), where vehicles perform binary or partial computation offloading to edge nodes (eNs) for task execution. We construct a vehicle-to-infrastructure (V2I) transmission model by considering vehicular interference and formulating a joint task offloading and resource allocation (JTORA) problem with the goal of reducing total service latency and energy usage. Next, we decompose this problem into task offloading (TO) problem on the vehicle side and resource allocation (RA) problem on the eN side. Specifically, we describe offloading decisions and offloading ratios as a decentralized partially observable Markov decision process (Dec-POMDP). Subsequently, a multi-agent distributed distributional deep deterministic policy gradient (MAD4PG) is proposed to solve the TO problem, where every vehicular agent learns the global optimal policy and obtains individual decisions. Furthermore, a whale optimization algorithm (WOA) is used to optimize the phase shift coefficient of the RIS. Upon receiving offloading ratios and offloading decisions from vehicles, edge nodes utilize the Lagrange multiplier method (LMM) and Karush-KuhnTucker (KKT) conditions to address the RA problem. Finally, we design a simulation model based on real-world vehicular movements. The numerical results demonstrate that, compared to previous algorithms, our proposed approach reduces the overall delay and energy consumption more effectively.'
+
+[Download paper here](https://doi.org/10.1109/ACCESS.2024.3454810)
