@@ -27,10 +27,5 @@ Research Interest
 
 Publications
 ======
-1. Task Offloading and Resource Allocation in an RIS-assisted NOMA-based Vehicular Edge Computing. **Accepted for publication, IEEE ACCESS**
-
-**[My Projects](/images/project_image.webp)**
-
-Note
-------
-**Webpage still under development**
+1. Task Offloading and Resource Allocation in an RIS-assisted NOMA-based Vehicular Edge Computing. 
+[https://doi.org/10.1109/ACCESS.2024.3454810](https://doi.org/10.1109/ACCESS.2024.3454810)
