@@ -1,12 +1,3 @@
----
-title: "Research"
-collection: research
-permalink: /research/
-venue: "Egypt-Japan University of Science and Technology, Electronics and Communications Engineering"
-date: 2022-10-01
-location: "Alexandria, Egypt"
----
-
 
 Graduate Research
 ======
