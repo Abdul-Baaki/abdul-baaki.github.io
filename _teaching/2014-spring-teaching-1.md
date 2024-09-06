@@ -19,18 +19,15 @@ Graduate Research
 
 Research Assistant - KNUST
 ======
-* Path Loss Prediction based on Machine Learning 
-Trained various Regressors and compared the result to empirical path loss models.
+* Path Loss Prediction based on Machine Learning: Trained various Regressors and compared the result to empirical path loss models.
 * Worked on a project called "Providing Real-time Speech-to-Sign Language Translation using AI."
 * Co-supervised undergraduate student's research projects (two groups of three students).
 
 Class Projects
 ======
-* **Keyword Spotting on the Edge**
-Trained NN classifier to identify particular keywords, performed pruning, and deployed it onto a smartphone and Arduino nano 33 BLE sense. [Project Demo:Keyword Spotting on the EDGE](https://www.researchgate.net/publication/377628371_Project_DemoKeyword_Spotting_on_the_EDGE)
+* **Keyword Spotting on the Edge**: Trained NN classifier to identify particular keywords, performed pruning, and deployed it onto a smartphone and Arduino nano 33 BLE sense. [Project Demo:Keyword Spotting on the EDGE](https://www.researchgate.net/publication/377628371_Project_DemoKeyword_Spotting_on_the_EDGE)
 * Designed a Microwave Oscillator (5 GHz VCO) 
 * Designed a Microstrip Patch Antenna at an operating frequency of 2.5 GHz 
 * Designed a police siren using NE555 Timer 
 Simulate the circuit on Proteus and solder it on a perf board to produce the exact sound.
-* Engineering in Society project
-Collected and analyzed data on malaria cases' effect on society and simulated a circuit that produced ultrasound frequencies to repel mosquitoes (electronic mosquito repellant) to keep the ecosystem safe.
+* Engineering in Society project: Collected and analyzed data on malaria cases' effect on society and simulated a circuit that produced ultrasound frequencies to repel mosquitoes (electronic mosquito repellant) to keep the ecosystem safe.
