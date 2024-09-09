@@ -20,7 +20,7 @@ Research Interest
 * Internet of Things and Internet of Vehicles
 * Satellite communication
 * Spectrum sharing and utilization
-* Edge computing
+* Signal processing, machine learning, and Edge computing
 
 **Secondary focus**
 * Antenna and microwave
