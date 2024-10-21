@@ -16,7 +16,7 @@ Research Interest
 **Primary focus**
 * 5G/6G and beyond wireless networks
 * Sensor Networks and wireless security
-* Internet of Things and Internet of Vehicles
+* Internet of Things and Vehicular Communication
 * Satellite networks
 * Spectrum sharing and utilization
 * Signal processing, Machine learning, and Edge computing
