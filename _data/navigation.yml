@@ -20,7 +20,7 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "CV"
-    url: /files/Abdul-Baaki-Yakubu-CV.pdf
+  # - title: "CV"
+  #   url: /files/Abdul-Baaki-Yakubu-CV.pdf
     
     
